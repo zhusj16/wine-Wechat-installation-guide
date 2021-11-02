@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Wine\Fonts\Replacements]
+"DFKai-SB"="Droid Sans Fallback"
+"FangSong"="Droid Sans Fallback"
+"KaiTi"="Droid Sans Fallback"
+"Microsoft JhengHei"="Droid Sans Fallback"
+"Microsoft YaHei"="Droid Sans Fallback"
+"MingLiU"="Droid Sans Fallback"
+"NSimSun"="Droid Sans Fallback"
+"PMingLiU"="Droid Sans Fallback"
+"SimHei"="Droid Sans Fallback"
+"SimKai"="Droid Sans Fallback"
+"SimSun"="Droid Sans Fallback"
